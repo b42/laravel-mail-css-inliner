@@ -1,6 +1,6 @@
 <?php
 
-namespace Fedeisas\LaravelMailCssInliner;
+namespace B42\LaravelMailCssInliner;
 
 use TijsVerkoyen\CssToInlineStyles\CssToInlineStyles;
 

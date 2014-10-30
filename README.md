@@ -62,7 +62,7 @@ $ composer update
 
 Once this operation completes, the final step is to add the service provider. Open `app/config/app.php`, and add a new item to the providers array.
 ```php
-'Fedeisas\LaravelMailCssInliner\LaravelMailCssInlinerServiceProvider',
+'B42\LaravelMailCssInliner\LaravelMailCssInlinerServiceProvider',
 ```
 
 ## Contributing

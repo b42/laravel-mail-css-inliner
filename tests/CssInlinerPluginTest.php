@@ -1,6 +1,6 @@
 <?php
 
-use Fedeisas\LaravelMailCssInliner\CssInlinerPlugin;
+use B42\LaravelMailCssInliner\CssInlinerPlugin;
 
 class CssInlinerPluginTest extends PHPUnit_Framework_TestCase
 {

@@ -1,4 +1,4 @@
-<?php namespace Fedeisas\LaravelMailCssInliner;
+<?php namespace B42\LaravelMailCssInliner;
 
 use Illuminate\Support\ServiceProvider;
 

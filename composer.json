@@ -1,5 +1,5 @@
 {
-    "name": "fedeisas/laravel-mail-css-inliner",
+    "name": "b42/laravel-mail-css-inliner",
     "description": "Inline the CSS of your HTML emails using Laravel",
     "license": "MIT",
     "keywords": ["laravel", "mailer", "css"],
@@ -25,7 +25,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Fedeisas\\LaravelMailCssInliner\\": "src/"
+            "B42\\LaravelMailCssInliner\\": "src/"
         }
     }
 }
